@@ -255,3 +255,13 @@ https://live.dinesh29.com.np/stream/jiotvplus/nickhd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/cnhdtelugu/master.m3u8
 #EXTINF:-1 tvg-id="kushitv" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/kushitv.png" group-title="KIDS",Kushi TV (jiotvplus) 
 https://live.dinesh29.com.np/stream/jiotvplus/kushitv/master.m3u8
+#EXTINF:-1 tvg-id="starsports1teluguhd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsports1teluguhd.png" group-title="Sports",Star Sports 1 Telugu HD
+https://live.dinesh29.com.np/stream/jiotvplus/starsports1teluguhd/master.m3u8
+#EXTINF:-1 tvg-id="starsports2telugu" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsports2telugu.png" group-title="Sports",Star Sports 2 Telugu
+https://live.dinesh29.com.np/stream/jiotvplus/starsports2telugu/master.m3u8
+#EXTINF:-1 tvg-id="asiacupenglish" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/asiacupenglish.png" group-title="Asiacup",Asia Cup English by Sony Liv
+https://dai.google.com/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8
+#EXTINF:-1 tvg-id="asiacuptelugu" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/asiacuptelugu.png" group-title="Asiacup",Asia Cup Telugu by Sony Liv
+https://dai.google.com/ssai/event/PR8hSCFZSoyFMghP4RjH5A/master.m3u8
+#EXTINF:-1 tvg-id="starsports1telugu" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsports1telugu.png" group-title="Sports",Star Sports 1 Telugu
+https://live.dinesh29.com.np/stream/jiotvplus/starsports1telugu/master.m3u8
